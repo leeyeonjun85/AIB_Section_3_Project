@@ -26,7 +26,7 @@
 
 
 
-# AI 부트캠프 11주차 : Section 3 Project
+# AI 부트캠프 12주차 : Section 3 Project
 
 > 드디어 딥러닝을 활용한 프로젝트를 진행한다.  
 > Section3를 시작하면서 chatGPT가 열풍을 일으켰다.  
